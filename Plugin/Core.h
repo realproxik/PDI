@@ -1,7 +1,7 @@
 #ifndef PDI_CORE_H
 #define PDI_CORE_H
 
-#include "plugin.h"
+#include "Plugin.h"
 
 #ifdef __cplusplus
 extern "C" {
