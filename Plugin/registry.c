@@ -1,5 +1,5 @@
 #include "core.h"
-#include "pdi/pdi_log.h"
+#include "Plugin/pdi_log.h"
 
 #include <dlfcn.h>
 #include <stdlib.h>
